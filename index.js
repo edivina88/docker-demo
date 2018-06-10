@@ -3,7 +3,7 @@ var app = express();
 
 app.get('/', function (req, res) {
 <<<<<<< HEAD
-  res.send('Hello World Manny v1.0.1!');
+  res.send('Hello World Manny1 v1.0.1!');
 =======
 <<<<<<< HEAD
   res.send('Hello World Manny Divina (Master)!');
