@@ -2,11 +2,7 @@ var express = require('express');
 var app = express();
 
 app.get('/', function (req, res) {
-<<<<<<< HEAD
-  res.send('Hello World!');
-=======
-  res.send('Hello World Manny v1.0.1!');
->>>>>>> v1.0.1
+  res.send('Hello World! v1.0.2');
 });
 
 var server = app.listen(3000, function () {
